@@ -1,6 +1,6 @@
 {
   "name": "hubot-namaeranking",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that search namaeranking.com for the name ",
   "main": "index.js",
   "scripts": {
